@@ -1,3 +1,5 @@
+## Battling COVID-19 Fatalities in Post-Vaccination United States
+
 ### Abstract
 
 COVID-19 has still a high number of fatalities in the United States despite the widespread vaccination campaign. Data science can be utilised in order to help the Center for Disease Control (CDC), federal government and state governments to have COVID-19 in check. Although there is currently a vaccine surplus in the US, the vaccination rate seems to have reached a plateau in summer 2021 with almost 56% of Americans fully vaccinated. This decline in vaccination rate was followed by a surge in the number of new cases and deaths towards the end of the summer. Close to 90% of these casualties were not vaccinated. Due to the fact that any potential "vaccine mandate '' would almost certainly not survive the current lineup of the Supreme Court of the United States (SCOTUS), the need for a new  strategy to control and lower the number of COVID-19 related deaths is strongly felt. Here we propose a strategy based on data science common and best practices to help the federal government to overcome this task.
