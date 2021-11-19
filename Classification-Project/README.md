@@ -1,4 +1,4 @@
-# Identifying the flake!
+# Identifying the Flake!
 
 ### A classification model to identify the potential cancelling customers for Marriott International
 
